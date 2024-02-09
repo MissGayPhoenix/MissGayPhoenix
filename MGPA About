@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Miss Gay Phoenix America</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #EDE9FE 0%, #FFF1F1 100%);
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+    <div class="text-center p-6 bg-white shadow-xl rounded-lg max-w-md">
+        <h2 class="text-2xl font-bold mb-4">About Miss Gay Phoenix America</h2>
+        <p class="mb-4">Miss Gay Phoenix America is a prestigious title representing the vibrant LGBTQ+ community of Phoenix. As an ambassador, she advocates for inclusivity, diversity, and equality, participating in various community events, fundraisers, and awareness campaigns.</p>
+        <p>Follow her journey and support her mission to make a positive impact in the world.</p>
+        <a href="index.html" class="block px-6 py-3 mt-4 bg-blue-500 text-white rounded-full font-medium">Back to Home</a>
+    </div>
+</body>
+</html>
