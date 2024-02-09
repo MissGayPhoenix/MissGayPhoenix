@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miss Gay Phoenix America - Link in Bio</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .btn {
+            background-color: #EF4444; /* A warm, inviting red */
+            color: white;
+            border-radius: 9999px; /* Fully rounded corners */
+        }
+        body {
+            background: linear-gradient(135deg, #EDE9FE 0%, #FFF1F1 100%);
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+    <div class="text-center p-6 bg-white shadow-xl rounded-lg">
+        <h1 class="text-3xl font-bold mb-4">Miss Gay Phoenix America</h1>
+        <div class="space-y-3">
+            <a href="https://www.facebook.com/MissGayPhoenixAmerica?mibextid=2JQ9oc" class="block px-6 py-3 btn">Portfolio</a>
+            <a href="https://www.instagram.com/missgayphoenixamerica/" class="block px-6 py-3 btn">Instagram</a>
+            <a href="https://www.instagram.com/missgayphoenixamerica/" class="block px-6 py-3 btn">Contact Me</a>
+            <a href="about.html" class="block px-6 py-3 btn">About</a>
+        </div>
+    </div>
+</body>
+</html>
